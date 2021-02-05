@@ -2,18 +2,18 @@
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![DevOlajide's github stats](https://github-readme-stats.vercel.app/api?username=programmerjide&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmerjide&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
-|![Github Page Visit Count](https://komarev.com/ghpvc/?username=programmerjide)||
+|[![keaz's github stats](https://github-readme-stats.vercel.app/api?username=keaz&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keaz&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
+|![Github Page Visit Count](https://komarev.com/ghpvc/?username=keaz)||
 
-- 🔭 I’m working on full stack Java/React project <a href="https://github.com/programmerjide/PPMToolsFullStack">Project Management Tool</a>  ...
+- 🔭 I’m working on compile time <a href="https://github.com/keaz/sonar-checker">Sonar Violations checker</a>  ...
 - 👯 I’m looking to collaborate ...
 - 🥅 2021 Goals: Contribute to Community, Write 12 articles
-- ⚡ I love coding
-- 📫 How to reach me: programmerolajide@gmail.com
+- ⚡ I love physics
+- 📫 How to reach me: kasun.ranasingh@icloud.com
 
 ### Find me on:
-[<img align="left" alt="devolajide | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="devolajide | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="keaz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="keaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="keaz | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="keaz | Medium" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" />][medium]
 </br>
@@ -27,8 +27,8 @@
 <a href="https://www.mysql.com/">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL SQL" width="70" height="70"/>
           </a>
-<a href="https://www.python.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="Scala" width="70" height="70"/>
+<a href="https://www.scala-lang.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-plain-wordmark.svg" alt="Scala" width="70" height="70"/>
         </a>
  <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift programming language" width="70" height="70"/>
@@ -46,7 +46,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
         </a>
         
-[twitter]: https://twitter.com/FirstClassMe
-[youtube]: https://www.youtube.com/channel/programmerolajide
-[linkedin]: https://www.linkedin.com/in/oladejo-olajide
-[medium]: https://medium.com/       
+[twitter]: https://twitter.com/KeazKasun
+[youtube]: https://www.youtube.com/channel/UCCVqzJoopx8ODm-J5-iTBag
+[linkedin]: https://www.linkedin.com/in/kasun-ranasinghe
+[medium]: https://medium.com/@kasunranasinghe303        

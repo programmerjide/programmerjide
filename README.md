@@ -5,7 +5,7 @@
 |[![DevOlajide's github stats](https://github-readme-stats.vercel.app/api?username=programmerjide&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmerjide&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=programmerjide)||
 
-- 🔭 I’m working on compile time <a href="https://github.com/keaz/sonar-checker">Sonar Violations checker</a>  ...
+- 🔭 I’m working on full stack Java/React project <a href="https://github.com/programmerjide/PPMToolsFullStack">Project Management Tool</a>  ...
 - 👯 I’m looking to collaborate ...
 - 🥅 2021 Goals: Contribute to Community, Write 12 articles
 - ⚡ I love coding
@@ -27,8 +27,8 @@
 <a href="https://www.mysql.com/">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL SQL" width="70" height="70"/>
           </a>
-<a href="https://www.scala-lang.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-plain-wordmark.svg" alt="Scala" width="70" height="70"/>
+<a href="https://www.python.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="Scala" width="70" height="70"/>
         </a>
  <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift programming language" width="70" height="70"/>
@@ -47,6 +47,6 @@
         </a>
         
 [twitter]: https://twitter.com/FirstClassMe
-[youtube]: https://www.youtube.com/channel/UCCVqzJoopx8ODm-J5-iTBag
-[linkedin]: https://www.linkedin.com/in/kasun-ranasinghe
-[medium]: https://medium.com/@kasunranasinghe303        
+[youtube]: https://www.youtube.com/channel/programmerolajide
+[linkedin]: https://www.linkedin.com/in/oladejo-olajide
+[medium]: https://medium.com/       
